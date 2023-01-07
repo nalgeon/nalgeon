@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi! I’m Anton, Python/Golang developer and SQLite enthusiast. I work on open-source projects, teach courses, and [blog](https://antonz.org/) about programming.
 
 <!--
 **nalgeon/nalgeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
