@@ -2,6 +2,8 @@
 
 Hi! I'm Anton, Python/Golang developer and SQLite enthusiast. I work on open-source projects, teach courses, and [blog](https://antonz.org/) about programming.
 
+I'm also writing a book - **[SQL Window Functions Explained](https://antonz.org/sql-window-functions-book/)**. It's a clear and visual introduction to the topic, so check it out if you've ever struggled with SQL windows.
+
 <!--
 **nalgeon/nalgeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
