@@ -2,7 +2,7 @@
 
 Hi! I'm Anton, Golang developer and SQLite enthusiast. I work on open source projects (see below) and [blog](https://antonz.org/) about programming.
 
-Currently working on [codapi](https://codapi.org/): embeddable code playgrounds for education, documentation, and fun. Give it a try!
+Currently working on [codapi](https://codapi.org/): interactive code examples for documentation, education and fun. Give it a try!
 
 I've also written a book about the subset of SQL that helps with data analysis - [SQL Window Functions Explained](https://antonz.org/sql-window-functions-book/). It's a clear and visual introduction to the subject, taking the reader step-by-step from the basics to advanced topics.
 
