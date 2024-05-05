@@ -4,7 +4,7 @@ Hi! I'm Anton, Golang developer and SQLite enthusiast. I work on open source pro
 
 Currently working on:
 
-- [codapi](https://codapi.org/): Interactive code playgrounds.
+- [codapi](https://codapi.org/): Interactive code examples.
 - [redka](https://github.com/nalgeon/redka): Redis re-implemented with SQLite.
 
 I've also written a book about the subset of SQL that helps with data analysis - [SQL Window Functions Explained](https://antonz.org/sql-window-functions-book/). It's a clear and visual introduction to the subject, taking the reader step-by-step from the basics to advanced topics.
