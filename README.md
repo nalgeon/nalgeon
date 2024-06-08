@@ -4,12 +4,16 @@ Hi! I'm Anton, Golang developer and SQLite enthusiast. I work on open source pro
 
 Currently working on:
 
-- [codapi](https://github.com/nalgeon/codapi) — Interactive code examples for all types of technical writing.
 - [redka](https://github.com/nalgeon/redka) — Redis re-implemented with SQLite.
+- [codapi](https://github.com/nalgeon/codapi) — Interactive code examples for all types of technical writing.
+- [sqlean](https://github.com/nalgeon/sqlean) — SQLite extensions.
 
-I've also written a book about the subset of SQL that helps with data analysis - [SQL Window Functions Explained](https://antonz.org/sql-window-functions-book/). It's a clear and visual introduction to the subject, taking the reader step-by-step from the basics to advanced topics.
+I've also written some interactive books you might find useful:
 
-Other (mini)books: [Curl by example](https://github.com/nalgeon/curl-by-example) • [Git by example](https://github.com/nalgeon/git-by-example) • [Grep by example](https://github.com/nalgeon/grep-by-example)
+[SQL Window Functions Explained](https://antonz.org/sql-window-functions-book/) •
+[Curl by example](https://github.com/nalgeon/curl-by-example) •
+[Git by example](https://github.com/nalgeon/git-by-example) •
+[Grep by example](https://github.com/nalgeon/grep-by-example)
 
 ♥ [Sponsor](https://github.com/sponsors/nalgeon) to support my work
 
