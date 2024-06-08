@@ -11,4 +11,6 @@ I've also written a book about the subset of SQL that helps with data analysis -
 
 Other (mini)books: [Curl by example](https://github.com/nalgeon/curl-by-example) • [Git by example](https://github.com/nalgeon/git-by-example) • [Grep by example](https://github.com/nalgeon/grep-by-example)
 
+♥ [Sponsor](https://github.com/sponsors/nalgeon) to support my work
+
 ★ [Subscribe](https://antonz.org/subscribe/) to follow updates
