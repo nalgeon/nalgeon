@@ -15,6 +15,6 @@ I've also written some interactive books you might find useful:
 [Git by example](https://github.com/nalgeon/git-by-example) •
 [Grep by example](https://github.com/nalgeon/grep-by-example)
 
-♥ [Sponsor](https://github.com/sponsors/nalgeon) to support my work
+♥ [Become a sponsor](https://github.com/sponsors/nalgeon) to support my work
 
 ★ [Subscribe](https://antonz.org/subscribe/) to follow updates
