@@ -8,12 +8,7 @@ Currently working on:
 - [codapi](https://github.com/nalgeon/codapi) — Interactive code examples for all types of technical writing.
 - [sqlean](https://github.com/nalgeon/sqlean) — SQLite extensions.
 
-I've also written some interactive books you might find useful:
-
-[SQL Window Functions Explained](https://antonz.org/sql-window-functions-book/) •
-[Curl by example](https://github.com/nalgeon/curl-by-example) •
-[Git by example](https://github.com/nalgeon/git-by-example) •
-[Grep by example](https://github.com/nalgeon/grep-by-example)
+I've also written some [interactive guides](https://antonz.org/#books) you might find useful.
 
 ♥ [Become a sponsor](https://github.com/sponsors/nalgeon) to support my work
 
