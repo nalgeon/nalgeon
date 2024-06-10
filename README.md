@@ -1,6 +1,6 @@
 ### Let's write some code!
 
-Hi! I'm Anton, Golang developer and SQLite enthusiast. I work on open source projects (see below) and [blog](https://antonz.org/) about programming.
+Hi! I'm Anton, Go developer and SQLite enthusiast. I work on open source projects (see below) and [blog](https://antonz.org/) about programming.
 
 Currently working on:
 
