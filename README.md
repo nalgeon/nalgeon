@@ -10,6 +10,4 @@ Currently working on:
 
 I've also written some [interactive guides](https://antonz.org/#books) you might find useful.
 
-♥ [Become a sponsor](https://github.com/sponsors/nalgeon) to support my work
-
 ★ [Subscribe](https://antonz.org/subscribe/) to follow updates
