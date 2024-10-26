@@ -1,8 +1,6 @@
 ### Let's write some code!
 
-Hi! I'm Anton. I work on open source projects (see below) and [blog](https://antonz.org/) about programming.
-
-Currently working on:
+Hi, I'm Anton. Currently working on:
 
 - [redka](https://github.com/nalgeon/redka) — Redis re-implemented with SQLite.
 - [codapi](https://github.com/nalgeon/codapi) — Interactive code examples for all types of technical writing.
