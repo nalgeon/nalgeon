@@ -6,6 +6,6 @@ Hi, I'm Anton. Currently working on:
 - [codapi](https://github.com/nalgeon/codapi) — Interactive code examples for all types of technical writing.
 - [sqlean](https://github.com/nalgeon/sqlean) — SQLite extensions.
 
-I've also written some [interactive guides](https://antonz.org/#books) you might find useful.
+I've also written some [interactive books](https://antonz.org/#books) you might find useful.
 
 ★ [Subscribe](https://antonz.org/subscribe/) to follow updates
