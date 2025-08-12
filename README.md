@@ -1,11 +1,11 @@
 ### Let's write some code!
 
-Hi, I'm Anton. Currently working on:
+Hi, I'm Anton. I work on open source and write [interactive technical books](https://antonz.org/#books)
 
-- [codapi](https://github.com/nalgeon/codapi) — Interactive code examples and sandbox.
-- [redka](https://github.com/nalgeon/redka) — Redis re-implemented with SQL.
-- [sqlean](https://github.com/nalgeon/sqlean) — SQLite extensions.
+Latest projects:
 
-I've also written some [interactive books](https://antonz.org/#books) you might find useful.
+- [chans](https://github.com/nalgeon/chans) — Building blocks for idiomatic Go pipelines.
+- [be](https://github.com/nalgeon/be) — Minimal test assertions in Go.
+- [howto](https://github.com/nalgeon/sqlean) — Humble command-line assistant.
 
 ★ [Subscribe](https://antonz.org/subscribe/) to follow updates
