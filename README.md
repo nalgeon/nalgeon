@@ -1,6 +1,6 @@
 ### Let's write some code!
 
-Hi, I'm Anton. I work on open source and write [interactive technical books](https://antonz.org/#books)
+Hi, I'm Anton. I work on [open source](https://antonz.org/tags/projects/) and write [interactive technical books](https://antonz.org/#books)
 
 🕑 Latest projects:
 
