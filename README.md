@@ -4,9 +4,9 @@ Hi, I'm Anton. I work on [open source](https://antonz.org/tags/projects/) and wr
 
 🕑 Latest projects:
 
+- [multi](https://github.com/nalgeon/multi) — Native threading and multiprocessing in Go.
 - [chans](https://github.com/nalgeon/chans) — Building blocks for idiomatic Go pipelines.
 - [be](https://github.com/nalgeon/be) — Minimal test assertions in Go.
-- [howto](https://github.com/nalgeon/howto) — Humble command-line assistant.
 
 🌟 Most popular projects:
 
@@ -18,6 +18,6 @@ Hi, I'm Anton. I work on [open source](https://antonz.org/tags/projects/) and wr
 
 - [tryxinyminutes](https://github.com/nalgeon/tryxinyminutes) — Live code tutorials in your browser.
 - [sqlpkg](https://github.com/nalgeon/sqlpkg) — SQLite extension registry.
-- [pokitoki](https://github.com/nalgeon/pokitoki) — Humble AI Telegram Bot.
+- [howto](https://github.com/nalgeon/howto) — Humble command-line assistant.
 
 ★ [Subscribe](https://antonz.org/subscribe/) to follow updates
