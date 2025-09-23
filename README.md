@@ -8,7 +8,7 @@ Hi, I'm Anton. I work on [open source](https://antonz.org/tags/projects/) and wr
 - [chans](https://github.com/nalgeon/chans) — Building blocks for idiomatic Go pipelines.
 - [be](https://github.com/nalgeon/be) — Minimal test assertions in Go.
 
-🌟 Most popular projects:
+🌟 Most popular:
 
 - [redka](https://github.com/nalgeon/redka) — Redis re-implemented with SQL.
 - [sqlean](https://github.com/nalgeon/sqlean) — The ultimate set of SQLite extensions.
