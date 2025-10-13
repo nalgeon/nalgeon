@@ -4,7 +4,7 @@ Hi, I'm Anton. I work on [open source](https://antonz.org/tags/projects/) and wr
 
 🕑 Latest projects:
 
-- [multi](https://github.com/nalgeon/multi) — Native threading and multiprocessing in Go.
+- [vaqt](https://github.com/nalgeon/vaqt) — High-precision date/time in C.
 - [chans](https://github.com/nalgeon/chans) — Building blocks for idiomatic Go pipelines.
 - [be](https://github.com/nalgeon/be) — Minimal test assertions in Go.
 
