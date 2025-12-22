@@ -10,14 +10,14 @@ Hi, I'm Anton. I work on [open source](https://antonz.org/tags/projects/) and wr
 
 🌟 Most popular:
 
+- [codapi](https://github.com/nalgeon/codapi) — Code sandbox and interactive code examples.
 - [redka](https://github.com/nalgeon/redka) — Redis re-implemented with SQL.
 - [sqlean](https://github.com/nalgeon/sqlean) — The ultimate set of SQLite extensions.
-- [codapi](https://github.com/nalgeon/codapi) — Code sandbox and interactive code examples.
 
 💎 Hidden gems:
 
 - [tryxinyminutes](https://github.com/nalgeon/tryxinyminutes) — Live code tutorials in your browser.
-- [sqlpkg](https://github.com/nalgeon/sqlpkg) — SQLite extension registry.
-- [howto](https://github.com/nalgeon/howto) — Humble command-line assistant.
+- [proofread](https://github.com/nalgeon/vscode-proofread) — Proofread, translate, and check grammar in VS Code.
+- [zero](https://github.com/nalgeon/zero) — Zero dependency club.
 
 ★ [Subscribe](https://antonz.org/subscribe/) to follow updates
